@@ -1,0 +1,19 @@
+[package]
+name = "aoc-rs"
+version = "0.1.0"
+authors = ["tglanz"]
+edition = "2018"
+
+[[bin]]
+name = "day1_2019"
+path = "src/day1_2019.rs"
+
+[[bin]]
+name = "day1_2019_part1"
+path = "src/day1_2019_part1.rs"
+
+[[bin]]
+name = "day1_2019_part2"
+path = "src/day1_2019_part2.rs"
+
+[dependencies]
